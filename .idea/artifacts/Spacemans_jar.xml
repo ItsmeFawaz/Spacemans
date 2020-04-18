@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Spacemans:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Spacemans_jar</output-path>
+    <root id="archive" name="Spacemans.jar">
+      <element id="module-output" name="Spacemans" />
+    </root>
+  </artifact>
+</component>

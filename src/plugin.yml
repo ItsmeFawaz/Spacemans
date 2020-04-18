@@ -1,0 +1,9 @@
+name: Spacemans
+main: me.bottleofglass.Spacemans.Spacemans
+version: 1.0.0
+commands:
+  spacestick:
+    usage: /spacestick
+    permission: spacestick.get
+    permission-message: You must beg the godly spaceman Faw to access this holy stick
+    description: the holiest of the art
